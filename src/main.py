@@ -1,7 +1,8 @@
 
-from crop_recommendation import recommend_crop
-from soil_management import analyze_soil
-from weather_advisory import weather_advisory
+from src.crop_recommendation import recommend_crop
+from src.soil_management import analyze_soil
+from src.weather_advisory import weather_advisory
+
 
 
 def main():
